@@ -1,4 +1,4 @@
-## Olá, Eu sou Lília! Eu sou estudante Back-End e compartilho aqui meus repositórios e projetos. 
+## Olá, Eu sou Lília! Eu Desenvolvedora Back-End! 
 
 <div align="center">
   <a href="https://github.com/liliatatyany">
